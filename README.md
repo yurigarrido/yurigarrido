@@ -1,5 +1,4 @@
-## Olá! Eu sou o Yuri Garrido 
-
+![Header](./github-header-image.png)
  <div>
   <a href="https://github.com/yurigarrido">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yurigarrido&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
