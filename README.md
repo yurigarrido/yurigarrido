@@ -1,18 +1,16 @@
 
-Sou Desenvolvedor Web Full Stack.
+Com um background sólido em Desenvolvimento Web Full Stack e um amplo conjunto de habilidades, sou um profissional apaixonado pela tecnologia e constantemente me aprimorando para acompanhar as últimas tendências do mercado.
 
-Possuo conhecimento em Git / Github, HTML, CSS, JavaScript, Typescript, React, testes com RTL e Jest, Mocha, Sinon, Redux, mySQL, MongoDB, Node JS com Express, arquitetura MSC, Rest e Restful, Docker e Heroku. Estou estudando e me aprimorando em Python.
+Do front-end ao back-end, possuo experiência em Git / Github, HTML, CSS, JavaScript, Typescript, React, Next, bem como em testes com RTL, Jest, Mocha e Sinon. Além disso, domino tecnologias essenciais como Redux, mySQL, MongoDB, Docker e Node JS com Express, e possuo conhecimentos em arquitetura MSC, Rest e Restful.
 
-Sou dedicado e estou sempre procurando desenvolver e evoluir na minha vida profissional e pessoal. 
-  
-##
+Busco sempre novos desafios para expandir meus conhecimentos e estou em constante aprendizado, atualmente, estou focado em aprimorar minhas habilidades em Java.
+
+Se você está em busca de um desenvolvedor dedicado, proativo e comprometido em entregar resultados de alta qualidade, estou à disposição para contribuir com o crescimento da sua equipe e empresa.
+
+Você pode conferir mais sobre meus projetos e contribuições no meu GitHub: https://github.com/yurigarrido
 
 
-  
-</div>
-
-  
- 
+Obrigado pela visita e estou ansioso para conversarmos mais em breve.
 <div> 
   <a href="https://www.linkedin.com/in/yurigarrido/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
