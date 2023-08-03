@@ -5,9 +5,8 @@ Do front-end ao back-end, possuo experiência em Git / Github, HTML, CSS, JavaSc
 
 Busco sempre novos desafios para expandir meus conhecimentos e estou em constante aprendizado, atualmente, estou focado em aprimorar minhas habilidades em Java.
 
-Se você está em busca de um desenvolvedor dedicado, proativo e comprometido em entregar resultados de alta qualidade, estou à disposição para contribuir com o crescimento da sua equipe e empresa.
 
-Você pode conferir mais sobre meus projetos e contribuições no meu GitHub: https://github.com/yurigarrido
+
 
 
 Obrigado pela visita e estou ansioso para conversarmos mais em breve.
