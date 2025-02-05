@@ -1,9 +1,21 @@
+Desenvolvedor Web | React | Angular | TypeScript | Node.js
+Apaixonado por tecnologia e inovação, sou desenvolvedor web full stack com experiência sólida no ecossistema JavaScript, atuando tanto no frontend quanto no backend. Minha trajetória inclui o desenvolvimento de soluções escaláveis e bem estruturadas para diferentes segmentos, garantindo performance, manutenibilidade e integração eficiente entre sistemas.
 
-Com um background sólido em Desenvolvimento Web Full Stack e um amplo conjunto de habilidades, sou um profissional apaixonado pela tecnologia e constantemente me aprimorando para acompanhar as últimas tendências do mercado.
+Ao longo da minha carreira, trabalhei na implementação de novas funcionalidades, refatoração de código legado e otimização de aplicações para melhorar a experiência do usuário e a eficiência dos processos.
 
-Do front-end ao back-end, possuo experiência em Git / Github, HTML, CSS, JavaScript, Typescript, React, Next, bem como em testes com RTL, Jest, Mocha e Sinon. Além disso, domino tecnologias essenciais como Redux, mySQL, MongoDB, Docker e Node JS com Express, e possuo conhecimentos em arquitetura MSC, Rest e Restful.
+🚀 Principais Habilidades
+↳ Desenvolvimento Frontend com React, Next.js e Angular
+↳ Integração e desenvolvimento de APIs com Node.js e Express
+↳ Banco de dados SQL e NoSQL (PostgreSQL, MongoDB, MySQL)
+↳ Arquitetura MSC e padrões REST/RESTful
+↳ Processos de CI/CD para automação e entrega contínua
+↳ Testes automatizados para garantir qualidade e estabilidade
+↳ Gerenciamento de estado com Redux e Context API
+↳ Contêineres e deploy com Docker
+↳ Metodologias ágeis e boas práticas de desenvolvimento
 
-Busco sempre novos desafios para expandir meus conhecimentos e estou em constante aprendizado, atualmente, estou focado em aprimorar minhas habilidades em Java.
+Estou sempre em busca de novos desafios para expandir meus conhecimentos e contribuir com soluções inteligentes e escaláveis.
+
 
 
 
